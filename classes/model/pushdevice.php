@@ -31,4 +31,8 @@ class Model_PushDevice extends Model {
     );
 
 
+    public static function findAll($whereOptions, $pagination, $size=20){
+
+    }
+
 }
